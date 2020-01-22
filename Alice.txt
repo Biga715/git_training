@@ -1,1 +1,2 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+This is the text that I added to Alice.txt <3
